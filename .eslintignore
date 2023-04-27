@@ -1,0 +1,7 @@
+/*
+!src/
+/src/reactAppEnv.d.ts
+/src/App.tsx
+*.config.js
+/src/shared/api/*
+ */
