@@ -1,6 +1,6 @@
 {
   "name": "armits",
-  "version": "0.0.05",
+  "version": "0.0.2",
   "private": true,
   "scripts": {
     "build": "webpack --mode production",
